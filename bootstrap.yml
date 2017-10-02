@@ -1,3 +1,6 @@
 spring:
     application:
         name: config-server
+
+eureka:
+  port: 8282
