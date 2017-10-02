@@ -6,6 +6,6 @@ spring:
   cloud:
     config:
       enabled: true
-      
+
 eureka:
   port: 8282
