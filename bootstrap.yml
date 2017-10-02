@@ -1,6 +1,11 @@
 spring:
-    application:
-        name: config-server
-
+  application:
+    name: configserver
+  config:
+    name: configserver
+  cloud:
+    config:
+      enabled: true
+      
 eureka:
   port: 8282
