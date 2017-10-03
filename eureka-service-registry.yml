@@ -6,4 +6,6 @@ eureka:
     fetchRegistry: false
     serviceUrl:
       defaultZone: http://localhost:8282/eureka
+      
+server.port: 8989
 
